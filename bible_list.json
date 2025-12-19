@@ -36,14 +36,14 @@
       }
     },
     "content": {
-      "download": "bible_db/hin_irvhin.sqlite",
+      "download": "hin_irvhin.sqlite",
       "format": "sqlite"
     },
     "meta": {
       "meta_json": "download/hin_irvhin/meta.json",
       "created_at": "2025-12-19T12:51:38Z"
     },
-    "ecclesia_version": 1
+    "ecclesia_version": 2
   },
   {
     "id": "mal_irvmal",
@@ -82,13 +82,13 @@
       }
     },
     "content": {
-      "download": "bible_db/mal_irvmal.sqlite",
+      "download": "mal_irvmal.sqlite",
       "format": "sqlite"
     },
     "meta": {
       "meta_json": "download/mal_irvmal/meta.json",
       "created_at": "2025-12-19T12:52:32Z"
     },
-    "ecclesia_version": 1
+    "ecclesia_version": 2
   }
 ]
