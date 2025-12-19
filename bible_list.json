@@ -1,0 +1,94 @@
+[
+  {
+    "id": "hin_irvhin",
+    "version": {
+      "id": 1980,
+      "code": "IRVHin",
+      "local_code": "IRVHin",
+      "title": "Indian Revised Version(IRV) Hindi - 2019",
+      "local_title": "इंडियन रिवाइज्ड वर्जन (IRV) हिंदी - 2019"
+    },
+    "language": {
+      "iso_639_1": "hi",
+      "iso_639_3": "hin",
+      "code": "hi",
+      "name": "Hindi",
+      "local_name": "हिन्दी",
+      "text_direction": "ltr",
+      "language_tag": "hin",
+      "secondary_language_tags": null
+    },
+    "publisher": {
+      "id": 424,
+      "name": "Bridge Connectivity Solutions Pvt. Ltd.",
+      "local_name": "Bridge Connectivity Solutions Pvt. Ltd.",
+      "url": "https://bridgeconn.com/",
+      "description": null
+    },
+    "copyright": {
+      "short": {
+        "text": "copyright © 2017, 2018 Bridge Connectivity Solutions",
+        "html": "<p>copyright © 2017, 2018 <a href=\"http://bridgeconn.com/\">Bridge Connectivity Solutions</a></p>"
+      },
+      "long": {
+        "text": "See http://freebiblesindia.com/ and https://eBible.org for more information about this translation and more formats.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.",
+        "html": "<p>See http://freebiblesindia.com/ and https://eBible.org for more information about this translation and more formats.</p><p>This translation is made available to you under the terms of the</p> <p> <a href=\"http://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution Share-Alike license 4.0.</a> </p> <p>You have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:</p> <ul> <li>You include the above copyright and source information.</li> <li>If you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.</li> <li>If you redistribute this text, you must distribute your contributions under the same license as the original.</li> </ul> <p>Note that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.</p>"
+      }
+    },
+    "content": {
+      "download": "bible_db/hin_irvhin.sqlite",
+      "format": "sqlite"
+    },
+    "meta": {
+      "meta_json": "download/hin_irvhin/meta.json",
+      "created_at": "2025-12-19T12:51:38Z"
+    },
+    "ecclesia_version": 1
+  },
+  {
+    "id": "mal_irvmal",
+    "version": {
+      "id": 1912,
+      "code": "IRVMAL",
+      "local_code": "IRVMAL",
+      "title": "Indian Revised Version (IRV) Malayalam - 2025",
+      "local_title": "ഇന്ത്യൻ റിവൈസ്ഡ് വേർഷൻ (IRV) - മലയാളം"
+    },
+    "language": {
+      "iso_639_1": "ml",
+      "iso_639_3": "mal",
+      "code": "ml",
+      "name": "Malayalam",
+      "local_name": "മലയാളം",
+      "text_direction": "ltr",
+      "language_tag": "mal",
+      "secondary_language_tags": null
+    },
+    "publisher": {
+      "id": 424,
+      "name": "Bridge Connectivity Solutions Pvt. Ltd.",
+      "local_name": "Bridge Connectivity Solutions Pvt. Ltd.",
+      "url": "https://bridgeconn.com/",
+      "description": null
+    },
+    "copyright": {
+      "short": {
+        "text": "MAL-IRV\nCreative Commons License\nIndian Revised Version (IRV) - Malayalam (ഇന്ത്യന്‍ റിവൈസ്ഡ് വേര്‍ഷന്‍ - മലയാളം), 2019 by Bridge Connectivity Solutions Pvt. Ltd. is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. This resource is published originally on VachanOnline, a premier Scripture Engagement digital platform for Indian and South Asian Languages and made available to users via vachanonline.com website and the companion VachanGo mobile app.",
+        "html": "<p>MAL-IRV</p> <p>Creative Commons License</p> <p>Indian Revised Version (IRV) - Malayalam (ഇന്ത്യന്‍ റിവൈസ്ഡ് വേര്‍ഷന്‍ - മലയാളം), 2019 by Bridge Connectivity Solutions Pvt. Ltd. is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. This resource is published originally on VachanOnline, a premier Scripture Engagement digital platform for Indian and South Asian Languages and made available to users via vachanonline.com website and the companion VachanGo mobile app.</p>"
+      },
+      "long": {
+        "text": "IRV Malayalam Bible",
+        "html": "<p>IRV Malayalam Bible</p>"
+      }
+    },
+    "content": {
+      "download": "bible_db/mal_irvmal.sqlite",
+      "format": "sqlite"
+    },
+    "meta": {
+      "meta_json": "download/mal_irvmal/meta.json",
+      "created_at": "2025-12-19T12:52:32Z"
+    },
+    "ecclesia_version": 1
+  }
+]
